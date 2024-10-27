@@ -48,6 +48,11 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# Quarto Files
+/zomato_files/
+zomato.html
+_publish.yml
+
 # Specific Files
 .DS_Store
 /data/
