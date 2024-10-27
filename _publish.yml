@@ -1,0 +1,4 @@
+- source: zomato.qmd
+  quarto-pub:
+    - id: 85f32e16-f667-4394-8ce4-7fde057a2100
+      url: 'https://thedataareclean.quarto.pub/zomato-data-analysis'
